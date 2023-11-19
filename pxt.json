@@ -1,0 +1,46 @@
+{
+    "name": "Iso's Candy Quest",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.46",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj",
+    "palette": [
+        "#000000",
+        "#FFFFFF",
+        "#9d303b",
+        "#7ABCE6",
+        "#e4943a",
+        "#164111",
+        "#0F1457",
+        "#C1A3FF",
+        "#9150E9",
+        "#543593",
+        "#80BE3B",
+        "#586830",
+        "#3e2137",
+        "#8F4A0A",
+        "#FF8800",
+        "#0F0F0F"
+    ]
+}
